@@ -1,0 +1,11 @@
+{
+  "name": "palette-t",
+  "version": "1.0.0",
+  "description": "PaletteT is a simple terminal tool designed to enhance your command-line applications with colorized output and progress bar functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
